@@ -1,2 +1,4 @@
-# quickrefs
-Quick References (Cheat Sheets)
+# Quick References (Cheat Sheets)
+
+- [Hugo Quick Reference (Cheat Sheet)](HUGO.md)
+
