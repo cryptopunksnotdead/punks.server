@@ -9,10 +9,11 @@ Usage:
   gatsby [command] [options]
 
 Available Commands:
-  develop [options]         Start development server. Watches files and rebuilds and hot reloads if something changes
+  new [rootPath] [starter]  Create new Gatsby project.
+  develop [options]         Start development server. Watches files and rebuilds and hot reloads
+                              if something changes
   build [options]           Build a Gatsby project.
   serve-build [options]     Serve built site.
-  new [rootPath] [starter]  Create new Gatsby project.
 
 Options:
   -h, --help     output usage information
