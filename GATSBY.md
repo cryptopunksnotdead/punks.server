@@ -33,6 +33,9 @@ Create new Gatsby project.
 
 Options:
   -h, --help  output usage information
+  
+Examples:
+  gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog
 ```
 
 
