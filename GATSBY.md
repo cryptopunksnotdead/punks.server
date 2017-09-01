@@ -78,7 +78,7 @@ Options:
 $ gatsby serve --help
 
 Usage: 
-  gatsby serve-build [options]
+  gatsby serve [options]
 
 Serve built site.
 
