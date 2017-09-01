@@ -68,7 +68,7 @@ Build a Gatsby project.
 
 Options:
   -h, --help      output usage information
-  --prefix-links  Build site with links prefixed (set prefix in your config).
+  --prefix-paths  Build site with link paths prefixed (set prefix in your config).
 ```
 
 
