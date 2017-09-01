@@ -13,7 +13,7 @@ Available Commands:
   develop [options]         Start development server. Watches files and rebuilds and hot reloads
                               if something changes
   build [options]           Build a Gatsby project.
-  serve-build [options]     Serve built site.
+  serve [options]           Serve built site.
 
 Options:
   -h, --help     output usage information
@@ -72,10 +72,10 @@ Options:
 ```
 
 
-## `serve-build` Command
+## `serve` Command
 
 ```
-$ gatsby server-build --help
+$ gatsby serve --help
 
 Usage: 
   gatsby serve-build [options]
@@ -85,7 +85,7 @@ Serve built site.
 Options:
   -h, --help         output usage information
   -H, --host <url>   Set host. Defaults to localhost
-  -p, --port <port>  Set port. Defaults to 8000
+  -p, --port <port>  Set port. Defaults to 9000
   -o, --open         Open the site in your browser for you.
 ```
 
